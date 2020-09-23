@@ -1,4 +1,4 @@
-# KAIST Standalone-DeepLearning 강의를 수행하며 코드를 정리한 저장소입니다.
+# Assignment_Standalone-DeepLearning
 2019 KAIST 딥러닝 홀로서기 세미나를 수강하며 코드를 정리한 저장소입니다.<br>
 [Standalone-DeepLearning (by Dingbro, Inc)](https://github.com/heartcored98/Standalone-DeepLearning)
 ## Contents
