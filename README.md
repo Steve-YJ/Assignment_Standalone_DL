@@ -19,6 +19,6 @@ Model Capacity, Overfitting/Underfitting, Regularization, Batch-Normalization에
 ### Lec4
 Optimizer, Visualize 5 dimension Data with Pandas & Seaborn<br>
 <code>::start:: 20.09.23.wed~</code>
-* ⚙️ [Re-Fact: CIFAR-10 MLP Classification] (https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/%5BRe_Fact%5D_MLP_Classification_CIFAR_10.ipynb)
+* ⚙️ [Re-Fact: CIFAR-10 MLP Classification](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/%5BRe_Fact%5D_MLP_Classification_CIFAR_10.ipynb)
   * Code Refactoring for Classification Task
   * Use it for Classification task
