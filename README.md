@@ -17,5 +17,5 @@ Model Capacity, Overfitting/Underfitting, Regularization, Batch-Normalization에
 * 📌📌 Assingment2. cifar-10 Classification Hyper Parameter Tunning
 * ⚙️ [Tech-Argparser](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/Lab3.%20Hyperparameter%20Tunning_Model%20Capacity_Overfitting_Regularization/%5BPractice%5D_Lec03_Argparse.ipynb)
 ### Lec4
-Optimizer, Visualize 5 dimension Data with Pandas & Seaborn
+Optimizer, Visualize 5 dimension Data with Pandas & Seaborn<br>
 <code>::start:: 20.09.23.wed~</code>
