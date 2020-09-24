@@ -18,7 +18,9 @@ Model Capacity, Overfitting/Underfitting, Regularization, Batch-Normalization에
 * ⚙️ [Tech-Argparser](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/Lab3.%20Hyperparameter%20Tunning_Model%20Capacity_Overfitting_Regularization/%5BPractice%5D_Lec03_Argparse.ipynb)
 ### Lec4
 Optimizer, Visualize 5 dimension Data with Pandas & Seaborn<br>
-<code>::start:: 20.09.23.wed~</code>
 * ⚙️ [Re-Fact: CIFAR-10 MLP Classification](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/%5BRe_Fact%5D_MLP_Classification_CIFAR_10.ipynb)
   * Code Refactoring for Classification Task
   * Use it for Classification task
+### Lec5
+Basic of CNN, Concept & Implementation
+* ⚙️ [Lab7. CIFAR-10 CNN Classification]
