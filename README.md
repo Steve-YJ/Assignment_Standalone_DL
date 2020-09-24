@@ -4,7 +4,7 @@
 ## Contents
 ### Lec1
 Mahine Learning의 기본과 Linear Regression에 대한 학습 및 실습<br>
-* 📊 Lab1. Linear Regression Implementation
+* 📊 [Lab1. Linear Regression Implementation](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/Lac1.%20Basic-ML_LinearRegression/%5BAssingment1%5D%5Blinear_regression%5DPyTorch_MNIST.ipynb)
 ### Lec2
 Logistic Regression, Multi-Label Classification, Artificial Neural Network에 대한 학습 및 실습<br>
 * 📊 Lab2. Pytorch Regression
