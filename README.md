@@ -26,3 +26,5 @@ Basic of CNN, Concept & Implementation
 * ⚙️ [Lab7. CIFAR-10 CNN Classification](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/Lab7_Basic_CNN.ipynb)
  * CIFAR-10 Classification Using VGG11, VGG13
  * Report Result
+### Lec6
+Advanced CNN Architecture(Skip-connection, Inception, ResNet)
