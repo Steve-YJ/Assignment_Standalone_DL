@@ -23,4 +23,4 @@ Optimizer, Visualize 5 dimension Data with Pandas & Seaborn<br>
   * Use it for Classification task
 ### Lec5
 Basic of CNN, Concept & Implementation
-* ⚙️ [Lab7. CIFAR-10 CNN Classification]
+* ⚙️ [Lab7. CIFAR-10 CNN Classification](https://github.com/Steve-YJ/Assignment_Standalone_DL/blob/master/Lab7_Basic_CNN.ipynb)
